@@ -1,0 +1,6 @@
+.item{
+    border: 2px solid aquamarine;
+}
+.container{
+    display: flex;
+}
